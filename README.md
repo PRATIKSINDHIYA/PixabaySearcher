@@ -1,6 +1,6 @@
-# 🖼️ PixabayImageSearch 📸
+# 🖼️ PixabaySearcher📸
 
-PixabayImageSearch is a React-based app that allows users to search for images from the **Pixabay** platform 🌍. The app lets users explore images in various categories such as **Nature**, **Fashion**, **Music**, etc. This project mimics the Pixabay image search functionality with a simple and user-friendly interface 😎.
+PixabaySearcher is a React-based app that allows users to search for images from the **Pixabay** platform 🌍. The app lets users explore images in various categories such as **Nature**, **Fashion**, **Music**, etc. This project mimics the Pixabay image search functionality with a simple and user-friendly interface 😎.
 
 ## 🎯 Features
 
