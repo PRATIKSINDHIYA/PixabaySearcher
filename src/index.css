@@ -54,7 +54,7 @@ nav{
   padding: 0px 10px 0px 10px;
 }
 input{
-  width: 1000px;
+  width: 650px;
   font-size: large;
   padding: 10px;
   text-decoration: none;
@@ -158,6 +158,16 @@ input{
   z-index: 1; 
   cursor: pointer;
 }
+.butn{
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+}
+
+.btn{
+  background-color: transparent;
+}
+
 
 .btn1:hover {
   background-color: white;
