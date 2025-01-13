@@ -34,11 +34,11 @@ const Navbar = () => {
       <nav className={`firstnav ${showNavbar ? 'show' : ''}`}>
         <div className='seconddiv'>
           <div className="logo">
-            <img src="/public/logo.svg" alt="" />
+            <img src="/logo.svg" alt="" />
           </div>
           <div className="searchbar">
             <div className="searchimg">
-              <img src="/public/search.svg" alt="" />
+              <img src="/search.svg" alt="" />
             </div>
             <div className="input">
               <input 
