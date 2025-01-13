@@ -74,14 +74,14 @@ input{
 .butn button {
   padding: 12px 25px;
   font-size: 16px;
-  font-weight: 600; /* Make text slightly bolder */
-  color: black; /* Text color */
-  background-color: #ffff; /* Primary blue background */
-  border: none; /* Remove default border */
-  border-radius: 25px; /* Rounded corners for a sleek look */
-  cursor: pointer; /* Pointer cursor on hover */
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2); /* Add shadow for depth */
-  transition: all 0.3s ease; /* Smooth transitions for hover effects */
+  font-weight: 600;
+  color: black; 
+  background-color: #ffff;
+  border: none;
+  border-radius: 25px; 
+  cursor: pointer; 
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2); 
+  transition: all 0.3s ease; 
 }
 
 .butn button:hover {
@@ -108,7 +108,7 @@ input{
   align-items: center;
   text-align: center;
   gap: 30px;
-  margin-top: 140px;
+  margin-top: 135px;
   color: white;
 }
 
@@ -121,7 +121,7 @@ input{
   border-radius: 30px;
   padding: 0px 0px 0px 10px;
   background-color: rgba(255, 255, 255, 0.2); 
-  backdrop-filter: blur(15px); 
+  /* backdrop-filter: blur(15px);  */
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
   gap: 5px;
 }
@@ -133,7 +133,7 @@ input{
   border-radius: 0px 20px 20px 0px;
   background-color: rgba(255, 255, 255, 0.2); 
   color: white; 
-  outline: none; 
+  outline: none;
 }
 
 .input2::placeholder {
@@ -154,9 +154,7 @@ input{
   border-radius: 20px;
   color: white;
   background-color: transparent;
-  position: relative;
-  z-index: 1; 
-  cursor: pointer;
+
 }
 .butn{
   display: flex;
@@ -183,9 +181,9 @@ input{
   background-size: cover;  
   background-position: center;  
   padding: 20px;
-  height: 50vh;
+  height: 60vh;
   margin-bottom: 50px;
-  width: 97.9%;
+  width: 97.4%;
 
 }
 .h1{
