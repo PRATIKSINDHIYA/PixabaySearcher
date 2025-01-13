@@ -13,7 +13,7 @@ const Images = () => {
                 <div className="header">
                     <div className='seconddiv'>
                         <div className="logo">
-                            <img className='logoimg' src="/public/logocopy.svg" alt="" />
+                            <img className='logoimg' src="/logocopy.svg" alt="" />
                         </div>
                         <div className="butn">
                             <button className='btn'>Login</button>
@@ -33,7 +33,7 @@ const Images = () => {
                     </div>
                     <div className="searchbar2">
                         <div className="searching">
-                            <img src="/public/searchcopy.svg" alt="" />
+                            <img src="/searchcopy.svg" alt="" />
                         </div>
                         <div className="newinput">
                             <input onChange={(e) => setQuery(e.target.value)} className='input2' type="text" name="" id="" placeholder='Search for photos' />
