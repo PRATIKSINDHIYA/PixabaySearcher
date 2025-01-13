@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react'
-import ImageContext from './imagecontext'
+import ImageContext from './ImageContext'
 
 const ImageState = (props) => {
     const apikey = '48187514-953107941c7a53e55110e24cd'

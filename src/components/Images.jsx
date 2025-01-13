@@ -1,5 +1,5 @@
 import React, { useContext } from 'react'
-import ImageContext from './components/imagecontext'
+import ImageContext from '../context/ImageContext';
 
 const Images = () => {
     const { imagedata } = useContext(ImageContext)
@@ -55,4 +55,4 @@ const Images = () => {
     )
 }
 
-export default Images
+export default Images;

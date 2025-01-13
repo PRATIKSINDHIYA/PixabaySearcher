@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useRef, useContext } from 'react';
-import ImageContext from './imagecontext';
+import ImageContext from '../context/ImageContext';
 
 const Navbar = () => {
   const [showNavbar, setShowNavbar] = useState(false);
