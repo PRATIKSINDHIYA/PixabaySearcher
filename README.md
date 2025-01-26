@@ -10,10 +10,6 @@ PixabaySearcher is a React-based app that allows users to search for images from
 - **Responsive Design**: The app is optimized for all screen sizes 📱💻.
 - **User-Friendly UI**: Includes a header with the app's name, a search bar, and category buttons for easy navigation 👨‍💻👩‍💻.
 
-  
-## 🖼️ Screenshots
-
-![Screenshot1](screenshot.png)
 
 ## ⚙️ Getting Started
 
