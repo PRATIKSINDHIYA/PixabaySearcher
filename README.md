@@ -61,6 +61,7 @@ Your app should now be running locally 🌐!
    - 🎶 **Music**
    - 💖 **Feelings**
    - 🎓 **Education**
+   - 🏢 **Buildings**
 4. Click any button to fetch images related to the selected category.
 5. If no category is selected, a **default image of India** will be shown 🇮🇳.
 
